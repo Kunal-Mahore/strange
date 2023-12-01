@@ -1,1 +1,1 @@
-# strange
+# food delivery frontend
